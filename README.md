@@ -11,14 +11,10 @@ In this repository
 
 ### Screenshots
 
+![Screenshot_2022-12-11-12-10-35-926_host exp exponent (2)](https://user-images.githubusercontent.com/55322319/206892014-656efef7-0f53-403b-a374-61bfdddba8c9.jpg)
+![Screenshot_2022-12-11-12-10-44-034_host exp exponent (1)](https://user-images.githubusercontent.com/55322319/206892082-125cb413-6275-4a7d-9e49-a164ff7232d0.jpg)
+![Screenshot_2022-12-11-12-10-59-562_host exp exponent (1)](https://user-images.githubusercontent.com/55322319/206892092-e20f6b2b-aa5c-4d67-bb93-9185957de7da.jpg)
 
-![Screenshot_2022-12-11-12-10-35-926_host exp exponent](https://user-images.githubusercontent.com/55322319/206890179-3b4778f6-2de2-47c8-93e8-51c159906836.jpg)
-
-
-![Screenshot_2022-12-11-12-10-44-034_host exp exponent](https://user-images.githubusercontent.com/55322319/206890137-887ec0c4-8380-42d8-b4f0-d3a1d754ef0c.jpg)
-
-
-![Screenshot_2022-12-11-12-10-59-562_host exp exponent](https://user-images.githubusercontent.com/55322319/206890142-4d7239d7-c153-4c06-a493-94106234ebc5.jpg)
 
 ### Demo
 
